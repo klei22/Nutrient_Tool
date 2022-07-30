@@ -1,0 +1,34 @@
+203|g|PROCNT|Protein|None|100|120
+205|g|CHOCDF|Carbohydrate, by difference|350|None|None
+291|g|FIBTG|Fiber, total dietary|None|15|17
+204|g|FAT|Total lipid (fat)|None|58|67
+320|ug|VITA_RAE|Vitamin A, RAE|None|300|900
+401|mg|VITC|Vitamin C, total ascorbic acid|None|180|400
+328|ug|VITD|Vitamin D (D2 + D3)|12.5|None|None
+323|mg|TOCPHA|Vitamin E (alpha-tocopherol)|None|15|20
+415|mg|VITB6A|Vitamin B-6|None|2.7|3.9
+417|ug|FOL|Folate, total|None|400|560
+406|mg|NIA|Niacin|None|28|35
+405|mg|RIBF|Riboflavin|None|2.8|6.5
+404|mg|THIA|Thiamin|None|1.6|3.4
+301|mg|CA|Calcium, Ca|None|750|850
+312|mg|CU|Copper, Cu|None|0.9|1.6
+303|mg|FE|Iron, Fe|None|8|18
+304|mg|MG|Magnesium, Mg|None|400|550
+305|mg|P|Phosphorus, P|None|700|2500
+306|mg|K|Potassium, K|None|3.3|4.7
+317|ug|SE|Selenium, Se|None|55|230
+307|mg|NA|Sodium, Na|None|3000|12000
+309|mg|ZN|Zinc, Zn|None|11|25
+262|mg|CAFFN|Caffeine|None|100|600
+501|g|TRP_G|Tryptophan|0.405|None|None
+502|g|THR_G|Threonine|1.620|None|None
+503|g|ILE_G|Isoleucine|1.539|None|None
+504|g|LEU_G|Leucine|3.402|None|None
+505|g|LYS_G|Lysine|3.078|None|None
+506|g|MET_G|Methionine|1.539|None|None
+507|g|CYS_G|Cystine|1.539|None|None
+508|g|PHE_G|Phenylalanine|2.673|None|None
+509|g|TYR_G|Tyrosine|2.673|None|None
+510|g|VAL_G|Valine|1.944|None|None
+512|g|HISTN_G|Histidine|1.134|None|None
