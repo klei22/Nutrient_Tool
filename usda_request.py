@@ -5,6 +5,7 @@ import json
 import requests
 import argparse
 
+
 def search_for_food(foodname):
     """Get full request from USDA for specific food
 
@@ -14,9 +15,10 @@ def search_for_food(foodname):
     Returns:
         json file of request
     """
-    base_url='https://api.nal.usda.gov/fdc/v1/foods/search?'
-    r = requests.get(base_url + '&query=' + str(foodname) + '&api_key=' + usda_api_key)
+    base_url = "https://api.nal.usda.gov/fdc/v1/foods/search?"
+    r = requests.get(base_url + "&query=" + str(foodname) + "&api_key=" + usda_api_key)
     return r.json()
+
 
 def print_food_json(food_json):
     """Pretty print output to stdout for the food_json
@@ -26,6 +28,7 @@ def print_food_json(food_json):
     """
     print_json(json.dumps(food_json))
 
+
 def get_hr_listing_of_nutrients(usda_json):
     """Get the listing of nutrients in human readable form
 
@@ -33,11 +36,11 @@ def get_hr_listing_of_nutrients(usda_json):
         usda_json: json formatted nutrient response from usda database
     """
     # TODO: make this more general
-    for item in usda_json['foods'][12]['foodNutrients']:
-        print(item['nutrientName'])
+    for item in usda_json["foods"][12]["foodNutrients"]:
+        print(item["nutrientName"])
+
 
 def parse_args():
-
     p = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
@@ -57,6 +60,7 @@ def main():
     food_nutrients_json = search_for_food(args.foodname)
     # get_hr_listing_of_nutrients(food_nutrients_json)
     print_food_json(food_nutrients_json)
+
 
 if __name__ == "__main__":
     main()
