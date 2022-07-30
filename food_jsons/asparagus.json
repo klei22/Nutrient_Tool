@@ -41,7 +41,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em>",
-      "score": 1053.1505,
+      "score": 1053.4335,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -336,7 +336,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em>.",
-      "score": 1053.1505,
+      "score": 1053.4335,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -614,7 +614,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em>.",
-      "score": 1053.1505,
+      "score": 1053.4335,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -892,7 +892,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em>",
-      "score": 1053.1505,
+      "score": 1053.4335,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -1152,7 +1152,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em>.",
-      "score": 1053.1505,
+      "score": 1053.4335,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -1396,7 +1396,7 @@
       "servingSizeUnit": "g",
       "servingSize": 90.0,
       "allHighlightFields": "<b>Ingredients</b>: FRESH <em>ASPARAGUS</em>.",
-      "score": 1052.9409,
+      "score": 1053.2239,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -1676,7 +1676,7 @@
       "householdServingFullText": "3 ONZ",
       "shortDescription": "",
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em> PRODUCT OF (PERU)",
-      "score": 1052.739,
+      "score": 1053.0219,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -1902,7 +1902,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em>, PURE OLIVE OIL, SEASONING BLEND (SEA SALT, SPICE).",
-      "score": 1052.3938,
+      "score": 1052.6769,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -2163,7 +2163,7 @@
       "servingSizeUnit": "g",
       "servingSize": 30.0,
       "allHighlightFields": "<b>Ingredients</b>: GREEN <em>ASPARAGUS</em>, SUNFLOWER OIL, GRANA PADANO CHEESE, SALT, CITRIC ACID, SPICES.",
-      "score": 1052.3938,
+      "score": 1052.6769,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -2423,7 +2423,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "",
-      "score": 1052.3938,
+      "score": 1052.6769,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -2713,7 +2713,7 @@
       "servingSizeUnit": "g",
       "servingSize": 85.0,
       "allHighlightFields": "",
-      "score": 1052.3938,
+      "score": 1052.6769,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -2987,7 +2987,7 @@
       "servingSizeUnit": "g",
       "servingSize": 100.0,
       "allHighlightFields": "<b>Ingredients</b>: GREEN <em>ASPARAGUS</em>, WATER, SALT, CITRIC ACID.",
-      "score": 1052.3938,
+      "score": 1052.6769,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -3242,7 +3242,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "<b>Scientific Name</b>: <em>Asparagus</em> officinalis",
-      "score": 552.2068,
+      "score": 552.2448,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -5157,7 +5157,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999054,
       "allHighlightFields": "",
-      "score": 485.81393,
+      "score": 485.85193,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -5898,7 +5898,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 442.95895,
+      "score": 442.9973,
       "foodNutrients": [
         {
           "nutrientId": 1062,
@@ -6838,7 +6838,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999148,
       "allHighlightFields": "",
-      "score": 407.06497,
+      "score": 407.10303,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -7580,7 +7580,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 407.06497,
+      "score": 407.10303,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -8781,7 +8781,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 407.06497,
+      "score": 407.10303,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -10771,7 +10771,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999144,
       "allHighlightFields": "",
-      "score": 407.06497,
+      "score": 407.10303,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -11546,7 +11546,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999146,
       "allHighlightFields": "",
-      "score": 407.06497,
+      "score": 407.10303,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -12310,7 +12310,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999140,
       "allHighlightFields": "",
-      "score": 407.06497,
+      "score": 407.10303,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -13064,7 +13064,7 @@
       "foodCategory": "Soups",
       "foodCategoryId": 999415,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -13807,7 +13807,7 @@
       "foodCategory": "Soups",
       "foodCategoryId": 999416,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -14550,7 +14550,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999149,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -15310,7 +15310,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999139,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -16053,7 +16053,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -17984,7 +17984,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999145,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -18781,7 +18781,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999137,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -19557,7 +19557,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999147,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -20338,7 +20338,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999138,
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -21102,7 +21102,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Soups, Sauces, and Gravies",
       "allHighlightFields": "",
-      "score": 376.56335,
+      "score": 376.60077,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -22245,7 +22245,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 350.32385,
+      "score": 350.3605,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -23363,7 +23363,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 350.32385,
+      "score": 350.3605,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -24448,7 +24448,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 350.32385,
+      "score": 350.3605,
       "foodNutrients": [
         {
           "nutrientId": 1079,
@@ -25655,7 +25655,7 @@
       "foodCategory": "Soups",
       "foodCategoryId": 999414,
       "allHighlightFields": "",
-      "score": 327.5114,
+      "score": 327.54712,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -26387,7 +26387,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Vegetables and Vegetable Products",
       "allHighlightFields": "",
-      "score": 327.5114,
+      "score": 327.54712,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -27734,7 +27734,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999143,
       "allHighlightFields": "",
-      "score": 307.49588,
+      "score": 307.53055,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -28489,7 +28489,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999141,
       "allHighlightFields": "",
-      "score": 307.49588,
+      "score": 307.53055,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -29276,7 +29276,7 @@
       "foodCategory": "Other vegetables and combinations",
       "foodCategoryId": 999142,
       "allHighlightFields": "",
-      "score": 307.49588,
+      "score": 307.53055,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -30051,7 +30051,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Soups, Sauces, and Gravies",
       "allHighlightFields": "",
-      "score": 307.49588,
+      "score": 307.53055,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -30910,7 +30910,7 @@
       "publishedDate": "2019-04-01",
       "foodCategory": "Soups, Sauces, and Gravies",
       "allHighlightFields": "",
-      "score": 307.49588,
+      "score": 307.53055,
       "foodNutrients": [
         {
           "nutrientId": 1186,
@@ -31776,7 +31776,7 @@
       "servingSizeUnit": "g",
       "servingSize": 20.0,
       "allHighlightFields": "<b>Ingredients</b>: MADE FROM <em>ASPARAGUS</em>, WATER, VINEGAR, SPICES, GARLIC, ONION AND CRUSHED RED PEPPER",
-      "score": 40.509693,
+      "score": 40.75998,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -32039,7 +32039,7 @@
       "servingSizeUnit": "g",
       "servingSize": 96.0,
       "allHighlightFields": "<b>Ingredients</b>: INGREDIENTS: <em>ASPARAGUS</em>, CARROTS, GREEN BEANS, CAULIFLOWER, YELLOW SQUASH, CELERY, ONIONS AND MUSHROOMS.",
-      "score": 10.322948,
+      "score": 10.573795,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -32300,7 +32300,7 @@
       "servingSizeUnit": "g",
       "servingSize": 140.0,
       "allHighlightFields": "<b>Ingredients</b>: PARCOOKED RICE (WATER, RICE, SALT), REHYDRATED WHEY (MILK), <em>ASPARAGUS</em>, CREAM (MILK), ONION, WATER",
-      "score": -8.794301,
+      "score": -8.541337,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -32578,7 +32578,7 @@
       "servingSizeUnit": "g",
       "servingSize": 113.0,
       "allHighlightFields": "<b>Ingredients</b>: , THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID]), <em>ASPARAGUS</em> SAUCE (<em>ASPARAGUS</em>, WATER, POTATOES, ONIONS, EXTRA",
-      "score": -8.794301,
+      "score": -8.541337,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -32841,7 +32841,7 @@
       "servingSizeUnit": "g",
       "servingSize": 26.0,
       "allHighlightFields": "<b>Ingredients</b>: PEA STARCH, WHEAT FLOUR, SUNFLOWER OIL, IODIZED SALT, <em>ASPARAGUS</em>, WHEY PROTEIN CONCENTRATE, NATURAL",
-      "score": -8.794301,
+      "score": -8.541337,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -33103,7 +33103,7 @@
       "servingSizeUnit": "g",
       "servingSize": 100.0,
       "allHighlightFields": "<b>Ingredients</b>:  MILK, ORGANIC PASTEURIZED CREAM, ORGANIC VINEGAR), ORGANIC <em>ASPARAGUS</em>, ORGANIC LOW-MOISTURE MOZZARELLA",
-      "score": -16.80028,
+      "score": -16.549309,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -33381,7 +33381,7 @@
       "servingSizeUnit": "g",
       "servingSize": 105.0,
       "allHighlightFields": "<b>Ingredients</b>: FILLING INGREDIENTS: RICOTTA CHEESE (PASTEURIZED WHOLE MILK, VINEGAR, SALT), <em>ASPARAGUS</em>, MOZZARELLA",
-      "score": -16.80028,
+      "score": -16.549309,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -33642,7 +33642,7 @@
       "servingSizeUnit": "g",
       "servingSize": 140.0,
       "allHighlightFields": "<b>Ingredients</b>: PRECOOKED RICE (RICE, WATER, SALT), WATER, <em>ASPARAGUS</em>, ONION, SUNFLOWER OIL, BLENDED GRATED CHEESES",
-      "score": -17.849136,
+      "score": -17.595268,
       "foodNutrients": [
         {
           "nutrientId": 1003,
@@ -33920,7 +33920,7 @@
       "servingSizeUnit": "g",
       "servingSize": 90.0,
       "allHighlightFields": "<b>Ingredients</b>: <em>ASPARAGUS</em>, CORN, WHITE CORN, CARROTS.",
-      "score": -25.197483,
+      "score": -24.94513,
       "foodNutrients": [
         {
           "nutrientId": 1003,

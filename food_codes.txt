@@ -1,0 +1,27 @@
+asparagus fdcId: 168389 description: "Asparagus, raw" lowercaseDescription: "asparagus, raw"
+spinach fdcId: 168462 description: "Spinach, raw" lowercaseDescription: "spinach, raw"
+broccoli fdcId: 169331 description: "Broccoli, stalks, raw"
+cauliflower fdcId: 169986, description: "Cauliflower, raw"
+honey fdcId: 169640 description: "Honey" lowercaseDescription: "honey"
+watermelon fdcId: 167765 description: "Watermelon, raw" lowercaseDescription: "watermelon, raw"
+chicken fdcId: 173321 description: "Fast foods, chicken tenders" lowercaseDescription: "fast foods, chicken tenders"
+tamales (pork) fdcId: 168067 description: "Restaurant, Latino, tamale, pork"
+tamales (cheese) fdcId: 169856 description: "Restaurant, Mexican, cheese tamales" lowercaseDescription: "restaurant, mexican, cheese tamales"
+pupusas (cheese) fdcId: 334720 description: "Restaurant, Latino, pupusas con frijoles (pupusas, bean)"
+pupusas (bean and cheese) fdcId: 167661 description: "Restaurant, Latino, pupusas con frijoles (pupusas, bean)"
+eggs
+        fdcId: 748967
+        description: "Eggs, Grade A, Large, egg whole"
+        lowercaseDescription: "eggs, grade a, large, egg whole"
+
+        fdcId: 748236
+        description: "Eggs, Grade A, Large, egg yolk"
+
+        fdcId: 747997
+        description: "Eggs, Grade A, Large, egg white"
+
+
+cilantro fdcId: 1103350 description: "Cilantro, raw" lowercaseDescription: "cilantro, raw"
+
+ginger fdcId: 169231 description: "Ginger root, raw"
+
