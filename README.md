@@ -24,3 +24,4 @@ code, and looping through the matching food
 
 first would be good to just get the json for the matching foods though
 
+need to get the id list into python, then add the nutrients from each

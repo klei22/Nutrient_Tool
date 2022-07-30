@@ -57,24 +57,32 @@ class Nutrient(object):
 
         return None
 
+def get_nutrient_dict():
 
-nutrient_list = []
+    nutrient_dict = {}
 
-with open("number_units_hrname_target_min_max.csv") as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter="|")
-    for row in csv_reader:
-        usda_code = int(row[0])
-        usda_units = str(row[1])
-        usda_codename = str(row[2])
-        human_readable_name = str(row[3])
+    with open("number_units_hrname_target_min_max.csv") as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter="|")
+        for row in csv_reader:
+            usda_code = int(row[0])
+            usda_units = str(row[1])
+            usda_codename = str(row[2])
+            human_readable_name = str(row[3])
 
-        target = float(row[4]) if (row[4] != "None") else None
-        min = float(row[5]) if (row[5] != "None") else None
-        max = float(row[6]) if (row[6] != "None") else None
+            target = float(row[4]) if (row[4] != "None") else None
+            min = float(row[5]) if (row[5] != "None") else None
+            max = float(row[6]) if (row[6] != "None") else None
 
-        nutrient_list.append(
-            Nutrient(usda_code, usda_codename, usda_units, human_readable_name, target, min, max)
-        )
+            nutrient_dict[usda_code] = Nutrient(usda_code, usda_codename, usda_units, human_readable_name, target, min, max)
 
-    for nutrient in nutrient_list:
-        print(nutrient.report(), nutrient._human_readable_name)
+        for usda_code, nutrient in nutrient_dict.items():
+            print(usda_code, nutrient.report(), nutrient._human_readable_name)
+
+    return nutrient_dict
+
+def add_values_from_foodcode(foodcode):
+    # TODO: read in a csv with the foodcodes, and tally up the nutrient dict, then do report
+    pass
+
+
+get_nutrient_dict()
